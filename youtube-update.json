@@ -1,6 +1,6 @@
 {
-  "version": "v19.04.37",
-  "versionCode": 20220933,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220933/youtube-revanced-magisk-v19.04.37-all.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "version": "v19.07.40",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/cheeenx/ReX-magisk-module/releases/download/1/youtube-yt-advanced-revanced-magisk-v19.07.40-arm64-v8a.zip",
+  "changelog": "https://raw.githubusercontent.com/cheeenx/ReX-magisk-module/update/build.md"
 }
