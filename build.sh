@@ -167,7 +167,7 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
-log "\nInstall [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music"
+log "\nInstall [YT-Advanced GmsCore](https://github.com/YT-Advanced/GmsCore/releases) for non-root YouTube and YT Music"
 log "Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store"
 log "\n[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)"
 log "\nChangelog:"
